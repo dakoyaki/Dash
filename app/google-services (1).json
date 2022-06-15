@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "735456822014",
+    "firebase_url": "https://dash-app-90b7b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dash-app-90b7b",
+    "storage_bucket": "dash-app-90b7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735456822014:android:99b1ebcc2dcb16df38dbaf",
+        "android_client_info": {
+          "package_name": "com.github.dakoyaki.dash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "735456822014-nj571491j2nj5guds3cl2neh4skffg40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5q4bhiErEZ3qWQolDY7IjBMWruEGnwi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "735456822014-nj571491j2nj5guds3cl2neh4skffg40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
